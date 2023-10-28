@@ -1,0 +1,271 @@
+pytorch1.13.1:˜Í
+ñ
+20.layers.0.0.input_gate_params.input_weight.weight
+H/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0N/0/layers.0.0/input_weight/weight_quant/export_handler/QuantizeLinear_output_0E/0/layers.0.0/input_weight/weight_quant/export_handler/QuantizeLinear"QuantizeLinear
+ñ
+N/0/layers.0.0/input_weight/weight_quant/export_handler/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0D/0/layers.0.0/input_weight/weight_quant/export_handler/Clip_output_0;/0/layers.0.0/input_weight/weight_quant/export_handler/Clip"Clip
+‰
+D/0/layers.0.0/input_weight/weight_quant/export_handler/Clip_output_0
+H/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0P/0/layers.0.0/input_weight/weight_quant/export_handler/DequantizeLinear_output_0G/0/layers.0.0/input_weight/weight_quant/export_handler/DequantizeLinear"DequantizeLinear
+ô
+30.layers.0.0.input_gate_params.hidden_weight.weight
+H/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0O/0/layers.0.0/hidden_weight/weight_quant/export_handler/QuantizeLinear_output_0F/0/layers.0.0/hidden_weight/weight_quant/export_handler/QuantizeLinear"QuantizeLinear
+ô
+O/0/layers.0.0/hidden_weight/weight_quant/export_handler/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0E/0/layers.0.0/hidden_weight/weight_quant/export_handler/Clip_output_0</0/layers.0.0/hidden_weight/weight_quant/export_handler/Clip"Clip
+Œ
+E/0/layers.0.0/hidden_weight/weight_quant/export_handler/Clip_output_0
+H/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0Q/0/layers.0.0/hidden_weight/weight_quant/export_handler/DequantizeLinear_output_0H/0/layers.0.0/hidden_weight/weight_quant/export_handler/DequantizeLinear"DequantizeLinear
+ö
+10.layers.0.0.cell_gate_params.input_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_1/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0P/0/layers.0.0/input_weight/weight_quant/export_handler_1/QuantizeLinear_output_0G/0/layers.0.0/input_weight/weight_quant/export_handler_1/QuantizeLinear"QuantizeLinear
+÷
+P/0/layers.0.0/input_weight/weight_quant/export_handler_1/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0F/0/layers.0.0/input_weight/weight_quant/export_handler_1/Clip_output_0=/0/layers.0.0/input_weight/weight_quant/export_handler_1/Clip"Clip
+‘
+F/0/layers.0.0/input_weight/weight_quant/export_handler_1/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_1/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0R/0/layers.0.0/input_weight/weight_quant/export_handler_1/DequantizeLinear_output_0I/0/layers.0.0/input_weight/weight_quant/export_handler_1/DequantizeLinear"DequantizeLinear
+ù
+20.layers.0.0.cell_gate_params.hidden_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_1/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/QuantizeLinear_output_0H/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/QuantizeLinear"QuantizeLinear
+ú
+Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0G/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/Clip_output_0>/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/Clip"Clip
+”
+G/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_1/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0S/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/DequantizeLinear_output_0J/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/DequantizeLinear"DequantizeLinear
+ø
+30.layers.0.0.output_gate_params.input_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_2/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0P/0/layers.0.0/input_weight/weight_quant/export_handler_2/QuantizeLinear_output_0G/0/layers.0.0/input_weight/weight_quant/export_handler_2/QuantizeLinear"QuantizeLinear
+÷
+P/0/layers.0.0/input_weight/weight_quant/export_handler_2/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0F/0/layers.0.0/input_weight/weight_quant/export_handler_2/Clip_output_0=/0/layers.0.0/input_weight/weight_quant/export_handler_2/Clip"Clip
+‘
+F/0/layers.0.0/input_weight/weight_quant/export_handler_2/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_2/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0R/0/layers.0.0/input_weight/weight_quant/export_handler_2/DequantizeLinear_output_0I/0/layers.0.0/input_weight/weight_quant/export_handler_2/DequantizeLinear"DequantizeLinear
+û
+40.layers.0.0.output_gate_params.hidden_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_2/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/QuantizeLinear_output_0H/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/QuantizeLinear"QuantizeLinear
+ú
+Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0G/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/Clip_output_0>/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/Clip"Clip
+”
+G/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_2/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0S/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/DequantizeLinear_output_0J/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/DequantizeLinear"DequantizeLinear
+ø
+30.layers.0.0.forget_gate_params.input_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_3/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0P/0/layers.0.0/input_weight/weight_quant/export_handler_3/QuantizeLinear_output_0G/0/layers.0.0/input_weight/weight_quant/export_handler_3/QuantizeLinear"QuantizeLinear
+÷
+P/0/layers.0.0/input_weight/weight_quant/export_handler_3/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0F/0/layers.0.0/input_weight/weight_quant/export_handler_3/Clip_output_0=/0/layers.0.0/input_weight/weight_quant/export_handler_3/Clip"Clip
+‘
+F/0/layers.0.0/input_weight/weight_quant/export_handler_3/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_3/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0R/0/layers.0.0/input_weight/weight_quant/export_handler_3/DequantizeLinear_output_0I/0/layers.0.0/input_weight/weight_quant/export_handler_3/DequantizeLinear"DequantizeLinear
+û
+40.layers.0.0.forget_gate_params.hidden_weight.weight
+J/0/layers.0.0/input_weight/weight_quant/export_handler_3/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/QuantizeLinear_output_0H/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/QuantizeLinear"QuantizeLinear
+ú
+Q/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/QuantizeLinear_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0G/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/Clip_output_0>/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/Clip"Clip
+”
+G/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/Clip_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler_3/Constant_output_0
+J/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0S/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/DequantizeLinear_output_0J/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/DequantizeLinear"DequantizeLinear
+¶
+P/0/layers.0.0/input_weight/weight_quant/export_handler/DequantizeLinear_output_0
+R/0/layers.0.0/input_weight/weight_quant/export_handler_2/DequantizeLinear_output_0
+R/0/layers.0.0/input_weight/weight_quant/export_handler_3/DequantizeLinear_output_0
+R/0/layers.0.0/input_weight/weight_quant/export_handler_1/DequantizeLinear_output_0,/0/layers.0.0/export_handler/Concat_output_0#/0/layers.0.0/export_handler/Concat"Concat*
+axis  
+¾
+Q/0/layers.0.0/hidden_weight/weight_quant/export_handler/DequantizeLinear_output_0
+S/0/layers.0.0/hidden_weight/weight_quant/export_handler_2/DequantizeLinear_output_0
+S/0/layers.0.0/hidden_weight/weight_quant/export_handler_3/DequantizeLinear_output_0
+S/0/layers.0.0/hidden_weight/weight_quant/export_handler_1/DequantizeLinear_output_0./0/layers.0.0/export_handler/Concat_1_output_0%/0/layers.0.0/export_handler/Concat_1"Concat*
+axis  
+Â
+,/0/layers.0.0/export_handler/Concat_output_0
+./0/layers.0.0/export_handler/Constant_output_0//0/layers.0.0/export_handler/Unsqueeze_output_0&/0/layers.0.0/export_handler/Unsqueeze"	Unsqueeze
+Ê
+./0/layers.0.0/export_handler/Concat_1_output_0
+0/0/layers.0.0/export_handler/Constant_1_output_01/0/layers.0.0/export_handler/Unsqueeze_1_output_0(/0/layers.0.0/export_handler/Unsqueeze_1"	Unsqueeze
+_
+inp.1+/0/layers.0.0/export_handler/Shape_output_0"/0/layers.0.0/export_handler/Shape"Shape
+º
++/0/layers.0.0/export_handler/Shape_output_0
+0/0/layers.0.0/export_handler/Constant_3_output_0,/0/layers.0.0/export_handler/Gather_output_0#/0/layers.0.0/export_handler/Gather"Gather
+l
+,/0/layers.0.0/export_handler/Gather_output_0
+onnx::Unsqueeze_62onnx::Concat_63Unsqueeze_45"	Unsqueeze
+À
+onnx::Concat_94
+onnx::Concat_63
+0/0/layers.0.0/export_handler/Constant_4_output_0./0/layers.0.0/export_handler/Concat_2_output_0%/0/layers.0.0/export_handler/Concat_2"Concat*
+axis  
+œ
+onnx::Expand_56
+./0/layers.0.0/export_handler/Concat_2_output_0,/0/layers.0.0/export_handler/Expand_output_0#/0/layers.0.0/export_handler/Expand"Expand
+c
+inp.1-/0/layers.0.0/export_handler/Shape_1_output_0$/0/layers.0.0/export_handler/Shape_1"Shape
+À
+-/0/layers.0.0/export_handler/Shape_1_output_0
+0/0/layers.0.0/export_handler/Constant_5_output_0./0/layers.0.0/export_handler/Gather_1_output_0%/0/layers.0.0/export_handler/Gather_1"Gather
+n
+./0/layers.0.0/export_handler/Gather_1_output_0
+onnx::Unsqueeze_73onnx::Concat_74Unsqueeze_54"	Unsqueeze
+À
+onnx::Concat_95
+onnx::Concat_74
+0/0/layers.0.0/export_handler/Constant_6_output_0./0/layers.0.0/export_handler/Concat_3_output_0%/0/layers.0.0/export_handler/Concat_3"Concat*
+axis  
+ 
+onnx::Expand_56
+./0/layers.0.0/export_handler/Concat_3_output_0./0/layers.0.0/export_handler/Expand_1_output_0%/0/layers.0.0/export_handler/Expand_1"Expand
+ˆ
+inp.1
+//0/layers.0.0/export_handler/Unsqueeze_output_0
+1/0/layers.0.0/export_handler/Unsqueeze_1_output_0
+onnx::LSTM_93
+0/0/layers.0.0/export_handler/Constant_2_output_0
+,/0/layers.0.0/export_handler/Expand_output_0
+./0/layers.0.0/export_handler/Expand_1_output_0*/0/layers.0.0/export_handler/LSTM_output_0*/0/layers.0.0/export_handler/LSTM_output_1*/0/layers.0.0/export_handler/LSTM_output_2!/0/layers.0.0/export_handler/LSTM"LSTM*
+	direction"forward *
+hidden_size *
+input_forget  *
+layout  
+q
+*/0/layers.0.0/export_handler/LSTM_output_0
+onnx::Squeeze_5784$/0/layers.0.0/export_handler/Squeeze"Squeeze
+ 
+*/0/layers.0.0/export_handler/LSTM_output_1
+onnx::Squeeze_58//0/layers.0.0/export_handler/Squeeze_1_output_0&/0/layers.0.0/export_handler/Squeeze_1"Squeeze
+ 
+*/0/layers.0.0/export_handler/LSTM_output_2
+onnx::Squeeze_58//0/layers.0.0/export_handler/Squeeze_2_output_0&/0/layers.0.0/export_handler/Squeeze_2"Squeeze
+z
+//0/layers.0.0/export_handler/Squeeze_1_output_0
+/0/layers.0.0/Constant_output_088/0/layers.0.0/Unsqueeze"	Unsqueeze
+~
+//0/layers.0.0/export_handler/Squeeze_2_output_0
+!/0/layers.0.0/Constant_1_output_090/0/layers.0.0/Unsqueeze_1"	Unsqueeze	torch_jit*İ
+B20.layers.0.0.input_gate_params.input_weight.weightJ şÅ~=²=-L¼ÉfÔ=  >+Nš=(Q^½áàı;iK>²Rö=Ë¬,¾i ½Ó©¾·Ï€½O;>f>-¸=Ç±¦=ùZ>¯“3=\ÅÎ=oï¬½êY>‰î>_¤Ú=,Æ=µÕc½ãŠt½êÍK¾nAH¾<y ½Öõê=ß+¸=z°=bl½y¹B>¨°³=WS»«Ë_=x·¾½®Èù½ñ‡æ½¸K>åÿş=ƒ¦¥½›§#>ÁÅ¼ò¦S¾¯Ñ½Dñ0¾”x=ÎlÉ½…?>¸ç>>GÀ>òmŞ=–Ìô½÷R>]9¾ìş;•Å=>gáY=v9½É½Æ½E‹Â<M >
+¾;ßŞ<ŠR =L_¶½R¬*>å4 ¾ËÛ_=ª>¢ƒ	¾n_,½HÂ4¾ÆVC>ÏD[>jë½Ã>Œ»ó= Àš=†–»=?0>€”>¢é•=yÉ\¾ŞT¾,K=İ{Õ=ÅF&>t›5¾C¾…Ñ¡=$ÂO>Í×4>sC¾›k–½ğ¼`¾Á¹(¾Ñ& ¾§¾>È´®½´ä½!!=?ü=Éƒ½è	¦=,ø"¾ÔÒ8>OÚ¾jµM>dsA¾KIÂ½£ö‘=zöé<bÃË½WØ·½ö9¾DûĞºxfV=o]3=ÔmL»lÛÛ=­”÷½ID1¾¦²%¾ÎÎD>~ú½…j¾ÄJ9¾>ãÖ¼}M¾U<,>¥Ë¾Î@¾…<N>-C¾«®D¾ñd=ÏÒ½R^m=®¾°f9>×!o='Ã<wä½½¨k<Şô">øª]>	Æ¾dÎ¾pt_¾¾¹=åV>âÈÆ=nò§=½[½BŠ˜=¾ú
+¾Æ[û:}™>ç½>[¡c>
+óy=Ö«¾p³=Sá<ö‡½çŞ=/,4½’ò =å(G>kCG¼WÜÈ¼”ß¸½ı{>UØ`½«te½‰h =˜½w!¾Ë%‹¼`7>³R¾—?W>Ê›ğ=CT&>s	¾î
+>™!>W\ï=İÒ5¾‡„\¾,.¶¼SE½ğœË½ú'	>*şB30.layers.0.0.input_gate_params.hidden_weight.weightJÀ©_N>ğ3+¼0Æ1¾ ~:>x†U>õ6½İ!İ=RÌ
+½]û½ºÑ¶½0¬=Å¹S>Y…$¼‹ğM¾äöÖ=Zş½hh;”>ÜJ¾¶.#¾´È‹=Í¿9¾Îƒ=ÖŠ«=Z,Ó½¤!>ÈR:>´¸>“¿J¾¡´½§ËD¾Ã{½_kÕ½ËĞ=»"ß=U'ø=|	¾Áàc¾'aL¾s€¿½*e€½­Ş>€
+½uõ´¼ÛĞ(>šLØ½ãtL>œÉÇ½–ñè<lz>ò-=¬JN>Pèl=ê­>°>JWü=hVL={¦ø¼8Z³½ E¾ÛÙ¾›%9¾å‹=öÖ»!w=xÂ=¢<½¦‹ğ=Ğ5>¾%"Ş=C!,>Š¿Â<øL÷=êí:¾.¸\¾¦a¡<¶ >ˆOó½ ¾v³¾Pã">úš½Øu>ô²>¾+&?¾à²›=€	#¾Ö­¼fO=¾¢Í½­‹*;.m=’–=æ=o˜n:ZÔ >÷,>Ÿ™>C;¬=º>qÉ7=Eú'<c©c¾1M	¾~vË=‘90»¸ß·½z“K=tc>ÖFé½e‰0¼ÓW>Õ`<úO½µY¼%q¿½2„<Še´=]{>¡7>Ÿ?ğ=”³½-FM>†¢¾ú½şâÀ=xà>+‚=Ï~=ƒJ¾×Ì<»É><İ[>[–¼GªÀ=c=76"=PmŸ=Ni3¾X_¾q=r¯M¾ˆôÀ»kæA=zÕ<&P> Ì;û{Ø= xB¾­Òê½xa>2¦¨½H—¾W<>/d>0İ¼7·—<k>Ó¸·=ò¼3>+fñ½%sH>IH>° (¾P^à=ğ÷Ö=ß½=å'¾W»½<3¾ÿµ>ù(Í½¬V>9^ô½GÙ’=ˆTµ½C>¿¤É¼%eĞ=.è0¾wĞÓ½õ¾	Ø%¾¥5>r°I¾ÇG>ûšZ>u³½Å6¼¿¼S¼Îˆ‘½f¬8åÒ<3&>õ¬A>sPÚ¼x˜ˆ¼ß¼!¾l°r½òë»9ûı=Š­Ã=ä:¾Ní>Q„E=4óH<œ."=—H<¾Øı>ëV…:8tÇ½)J<÷ëºÂb,>39¶=[Â?=Öp·¼î›B=øv-¼¢¢¾	¶ ¾¼ë>BF>´_>vª>µ>ÔÚ$¾¡F¾Ù¥=T,¾«B?¾İ’¼=«G>qİŞ¼6~Ö=ÒZO¾}U¿½€1¾ïœd¾n<•mZ>°è=¦>¯¬±=`ò¿¼ãDª½´:ø=
+R)½Îè¼Ş'y½ˆğ/>“W=9,½)y¾çè_½N¡½ä—3¾lw>õÛ½<L^²<Ïm=¾I>=r9>M·d½4º½¡Ñ»Öw>Úz!¾«Í>Z¸9>& …<ÄD>€R¾+'^¾\8-¼W»™=¹ˆ½oÃ>•°P»ÙwZ>ååä½$ÿ.¾À >÷f½Êí*>J‚<L#4¾5¾¨3*¾½äK½Ènó½E¼÷½À—¾ı³`¾Á9ğ½ÏiÏ½ô/©½Ìë=raé=a¡"½"„¼¨¾Œ6æ=é”Ğ½Ó¨->6`¾S–>^C=áşb½{¾ºÁ=cÛÖ½LÖ.¾ŒT½í‰<ß5¾è3õ<=~û=?êÂ¼W½ŠÒ¼p%><K>¸>O—k½¾šÃ½¦İÅ;ş½¯ñ¼¨Õ¸šN>hñù=j>¾9Ğ ¾£D¾\Şµ=}á1¾® 9¾p±½ç1Q>OìÜ¼”x'¼ä<=õô–¼®½l®?>ùR¾”ÒŸ½<~=#p9>Â˜¼’ˆ">b0
+»“Ô->`X‡¼À1¾=ı¾#N¾U“=>É-=ï¹½„Z¾î¨b½Éã‚½2!¾Fw=¡45=Š“°½Ö¦ˆ9¡í=QÃ=ÿÿò=j%^½#w¾'rt¼÷ã9>˜A»½â’°=v‘¾ê C>³ª;å/¸½Û˜4>¥¼=íª=0ÕZ=8Œ2¾ØM¾i'(½bTQ>×+½öO½–Nß=hÜ?>$,>ôgP>Ï>ÏaZ=*Ş
+B30.layers.0.0.forget_gate_params.input_weight.weightJ «qà½«ÔP>¨}1=	M;óaW¾ñ	„=(¼ş½¾¼_H<ØvD¾‰šq=¡æB¾Ìx>ê=½f~½@	>2çì½çö	>È•=¥5=R©^¾×Hæ½J`T=3U¾‘©=È½_¾Bcv½¾K=lX¿=a\u½pÑ->¶ÒÑ=ó\'>áº7>0­Ø½ö^=@ï«=hì‰º#Ş=-¦½¾/Ä_¾W±¼É§½¶¾‰Z"¾=Í½X˜\>8ª‰½e‹=jŒƒ¼ßk¾é&>S>ru6<QO2¼"„%¾}Ëh=Á¾É½Å=E/E>”l`¾¼MW¾Û<>UK½;£¾‰=-¾òo¾©ãG=(—§<¿°,>x±¦=O»½˜a_=ƒZ«;cØE¾¯ ã½…_a>ì>ÜZN>cuù½N½”İú½^§½'#*¾-M;™>ÚlP¾f›¼°ëÉ½u›ã¼C
+¾}#I¾Ÿë5=XÜ@>èü^¾Ô‡"½é¾½@}ç=‘1=*1N¾²ŞÛ=L½„JŸ=N9Q>‡
+>LW>)½É8¢½-ˆ
+=Q¥ »!³2¾ÿÊş=òØ]>Ü;¾™hI;%b¾Y@«½ú(D¾Á0x½d.>ÿ¡¾HãV>Í#<g6M=CS½f >ç‘=ékq=éãZ>‡î%>'+I>3\H¾`'¾°Ğ³½m}>G>ù¢=u‡W>“a>Eˆ9¾8›Ó=¢­™½öt=Uœª=¦ç2=Ñ ç=dh½£g="Ÿ=#
+I¾Æµ=Cîb>Š>Ğèz=A]­;.:>«’½ùj½¹a«=â=V?§½ız>Nc¾‹q=®µô:õ-”½k	ˆ<‰É½ZL‹½&#¾\ÛÀ½æ'¾=! A½İ/>p›T> 3=JJ¾+‘'¾l;/>ìiî½U°²½3¬½Ñ,=…+»<f¼ÁB>ŠQ½±½± S> ğ¿=œë¾æT¾k“i=.Š$><–=N@±¼hSÇ¼˜¾*ÿB40.layers.0.0.forget_gate_params.hidden_weight.weightJÀÏrƒ;ÁŒ¥¼¦ÙL><Û¿=‚™8»§’c¾ºS½?H¾ÊÁ>–‹¶»|¾š E¾%>`Æ½Îğ=§9>¯=<¾è®1=Ë­½Ú½İĞ^½âB>€Ğƒ;ÂÆ ½ıvß½şõ>>,Î½B¶'>ñô>1ã(¾y«>ôM=Ä ½]«U>^1>!Ò½ä>^8”=ÓbE>ËAT¾ğ">‹ÁL=?Y¾ÿìı½ü•	¼G^¾nÆÃ=¾B>Ï…,=rD´=Æ=iõ>S¹½>Ä Ê½°ªà½ô©½ ÑÔ½?£ = û½»S>"ù=Õ[?½jB>İ„¯=>î•b¾¢TT>v±½áÿƒ=bK¾½ÆC>	ØE>:le<ßÒ=²Ób¾O›K>ıÛZ¾Ê¾BÌ^>xå¬=Ò–½½ò¾~+)<«Y¾Rz7¾F}6½€‰.¾ÉuB>ßäù=ßø=A›R¾~D·=[Øm=Ésˆ=óáÃ<¹‰>ÂÕÈ½±4“=¹=i«Ö=›M>×.¾ÆµP¾ê¼Ë=Da–»­œ=<ïY=´ãÖ½
+H=€ú¢=kãÔ½¾ ¾øä½Bı½½Ï¼e=?K¾(~>>4b‰½}eÜ=‘/7¾Åëw½˜ƒö=Äóè=kò½.7J½¾Z^>{ÀL½?)>¡&=\±Å½nŠª=QT^<Ív>)Ô!=z}½a«¾‰,Ó=÷—¦=#¾HßÜ=ŞÏ¾=hÚ¾}G¾éº¾Vf;½Ìš£=U¡=hÔù¼CP]=ãÀ'¾ä¯1>&%>zÕb¾èÛÉ½NL¾àò¾ó^>7Vm½t2ƒ½·ù
+=|‚5¾»Ä½©ÖJ>şò(¾Ôv=={„â=ÃåÉ<‰©í=Lö>çû=9]»tÏ?>Ö÷>FS>lõZ¾o³O¾İM>Zôç=(‚D>Ñ6	¾9°=ÑkÛ;WÇV¾š…c¾cJˆ½PX?¾Mç½ölé½Ş,>Ÿób¾ª"ø½(«¾ç*=¾ôF¾‰øM>[`>½U‘=7¯~½ÁØ=¨Ëh½E½?<Åü½ûß>ÕÁB¼L½æ=Ï/¿=á½½ü=mVK>œ&¾rPß=6 ¾õ&G¾ô^¾ŒœS=B¤»ÈÔT>%	÷<½ğN>.>Ù!ó»ˆÍ>°¾&G>a  ½Œá½‰–/¾Ñm>n=AÙ0¾ã`>Rü<>°zİ¼.uâ½ö¨ë= Õ¼ãWH>T–ú¼°á¼`|­½se¾„Z­½4›=¿">òî%¾1Şj¼uµ	=a½c>79>`R„½¸©ß=‰i¾Şº“½tI¾SG¾ ä¼íéÊ<ïŒğ½]%U¾#–7>ñ¯=Ú2Ä=à'}½
+Û“»ŞRğ=Î‡¤=— ¾Ia¾=™¬™¼¹rÜ¼dR>²K\¾ˆFU¾ON¼'Z&>Ñ(¾nß¾™xï¼Q¶¾‡œE>&ªQ¾şC=û-c¾V[#>6=üDH>inÊ=]Ñë=<ı=xL¾{=>Ù>«­S¾]¡[¾±—< ¯;¾>›Ï½Â¾Â6>ÔL;¾Ã…½q:==¾>±A>dş<Ç¶=>6“;çãI>î¤„»ÅZ>$¾Z”õ=»d)>Ü¥=,#z<›½S&¾ZÅA¾Á"=NWÏ=L+(>0>>àWë=ÇŒ=q^ˆ¼$É>ó~+¾OP£=!]½T¹½|ç>P²¾û[á=3—û½3
+½zK<|">£"A¾ªåR>ÌFë=ˆ8Ö=!õ)¾³Ç¾Jec=ã½Ğ½äùÔ=K¤X¾Hã\>¸>J=u„ì=&ü¹»Z§—=”­\>ÀJ@¾iÓ½H‹æ<j¾^Ú½ºO§=š¶'¾İÌ¼ì÷<$jE¾¢^ï½F–¼½‹ ‰½DË>İøõ½ø]Ô»Aê6>K¸\>m„¼½ÒÒ½X™<óÿT>ó÷˜½ïY
+>ÂÍ·½§íí<êeI>·ŠÄ=‹Î+¾X³=ÌŸ¾\)Z¾æå¾ú7“=¹>Ú€6½x#>Ît&>ßh°½}ã>r‚¿½sº<*Ü
+B10.layers.0.0.cell_gate_params.input_weight.weightJ ¼Ù½7+>ÎG;¾˜£E>ƒx¾½ K>8âİ¼ïCó=ƒ9½b`–½«YD>Mc7¾¯‰Ô¼ÉÀ¾ØQ¹=aUX¾L½‚¶O½â*¾®>İMÂ½O¤%>O£>aX>šß!¾¤D0¾*ÆR½<óè½Úãd¾»W½ì×=p u=ŠŒª½E2>q[×½ç+¾’„O>;Qø¼Å¾%/¾¤‰ò½ôØ½¨£ß½ÚT:¾Ñ*â=5eó¼ı¿$=Ñ^V¾N«[¾ºàª=¢«%¾‹¾öeS¾…Êß=v"F>÷L’=ìÇ6>Åé=f—W>~	ï½8‰>ÉçŞ¼)•G>Š…Á< p¾È„>$³='>hM½ÃXĞ½ìrç½ÔÒ>n¾½BšB¾Øƒ=ß*$=ŸH=±¡>C÷ã½;˜8>×B=¡yD¾±}=Ë¼m½® ?>Y&d>h\G¾?>Ñ¾Ç‚½1‡¾‰“ë¼1oX=|3¾4µd½O
+W>Bš`>c>¾a9¾5;ø¼ÚÆ>(¾bMî=†dÆ=VËW¾#%I¾*Œş½ 0>}”¸=ÎD>åÔœ½9¬š=µbk½õ¬‰=Én0=”M>`©½—äZ¾Æ]ü=^…=†ÅÄ=ø_¾£Æ_=üšÄ;ã_8>"Ëü=_©ç½¼õ=¼	¾¹ô¿¼qk¾M >Ë“< ä¾‘#=h½Ø|·½R¦¾<%“ ¼Ôz*¾«›¾Š)«½¢k–=ş'>ÅuZ¾¸5]>Â°½².oº¹<Ï=Ü
+Ï<Å$ =æ¥T>ÌW£½û¶Ş½uÄ="vJ>Q>º„@¼6è2>Î>ìì½PÁ«½ÍiF>^äk=^Z<Iì²<['×½W¾ÓÎ^½µ¾Ü£€¼îÇ=âƒ>½ùY™»*|a¾İëÕ½…ü=Ô¶W>.­"¾Ä7v½GM¾ş>—Ê½£Â!»~˜=Ï\¾4ö>¦?H»R§:¾xù¼½æ‚<î„T=Ã*'½#·>ÇÚ¾2ˆ¾âU×=t„D=Émø½V-C>*ıB20.layers.0.0.cell_gate_params.hidden_weight.weightJÀFí(½¹Å=~Y%¾;]>…ß¾µF>Ÿ>¼G;L€±½ğb•½D0S=:‰’½^»;ºT:ëÁ>d5¾÷§Ä=k=ß‘s=*$4>ğÅ½¼C¾ÆL(¾}€E=84¾WÛò=O1_>éE¾‡J>£½^@ä<ìfø¼' K>ÕëÛ=¨ğ<5#\¾ºL¾Í»Õ<a3I¾q$	>Œ?°=±q½ ×¦½{²¾pDÕ½LJH½‘ı½òÌÛ=iÛ=Ä¸_¾\è½Ár½˜¾c¾.)yºÅzÌ=`d¾£(_>b¾ÙX>Ä`b>ÄßĞ<H½Yá´=Áh½^¼Ù¼\s=¬M½(â;<=¦»¨	½>ôM>‰•>Š+#<¸r½ë0E>õ¾?¼¾+U>GÎ
+¾.[>0Å=óŠ÷¼ğ
+ê¼²—;€‘ßº?@<½b^>OE=·ÿ¬½y%<H8>Zˆ%>ø$¾}Â:¾lãl=ŞW½êt½Æâ½qaœ;rj>4A>rcS¾q<2>)>kEX¾ÌÓ
+>¯²>t°¨<,Ô¾iaÎ=ÁZ>úV¾tŒJ>¥ŒS=•Ö½
+Ñ•9öcÓ½Ä-y=ïk¾"|=3P>²îò½zî¿½NÃF>œ{Å½"Òd=mIŸ=ëÛ8½tr>¹ÅN¾Ğ‡õ=‚I¾³{D¾‡Z¾ QU>Üc½2¾Q¾È*;+Á7>. ¾ô;/¾2£„½S3>àÛ‘;ğÆ ='¹ >T”¾´Iú½-I%>û½Şğ¾¨J,¾aN$¾µŠ‹½0´»Å‚½E„¾'Ôx½ı¾M:S½z¤Ö=pP´=Âh'=rÎ¾TÊ>úÖb>õ?:ÓK‡=ÜÍæ¼–]¾²œÉ¼Àâ½üQÑ=NõD>Â-
+>ÈÃ!>¦#İ½Ÿ/¾µ=K¬¾A8@»ëı{=Ã®=«]÷;á:/¾½R=¶ªÇ=~½`Âª½Ü=š¼#êK>ı¾'/F¼C¾Ç½±|¾êÎ½Gm„½z>«>İ >^7½Øğ=‰3>©• >(¦»dÌ½õ²O>jŸ5>u$ =Ü¸=»ô½/°½¼'Tÿ½‘ÅÄ½u·<¾×A1¾¡…ò½[=>1/A>)?•=ƒ+…½,¾é²U=M>)…²=JŸs½g=>¾}¼¡o½…õ>>c3>òº½Ìô=>O±ı<«†¾=µX¾9Ğ¡=-8O>Ï S>±–<=ßTÆ½·Å=ŞV6½I¾nU¾wá=mpÂ½ÿJƒ=ëc;>Lu->@ƒ=À`¿½å[ÿ¸âÅ½º¾GÚ=ö;¾£´B¼Xé9>ÃAD<‰x+¾u»`½“P=9Ú½@1¼	N>Â¯X=E¿š==2[½/îü=Ï>I¦›;B†!>şš¾Ì¹¥=¬Î½åÀ#¾Fİ¾dHÅ¼Í„4¾¯”0<v¾v=Áçì½ÃƒW½Ñ_4>„»½óò=ú¹>ÇKş½.m&¾øœ6=uGm¼¬ÿ³½Âş+¾Úô>Õú¢=ø@&>s#¾a<=,Ø=—ö¤=üºb¾©´¼.Ä>ç>N¢†<ÄÆ%¾§•=sS=˜^¤½«0œ=æ¼‰¥§½]ÜŸ=ö–¯½»S¾pYO¾£=‘c¾úrN>JÈ½~í½8÷=Ó]½:Ê>m)>±[¾ÚVË=°"K¾ˆ½M¾W„>?0¾D>%1¼#Çí¹·©ò=a->ÿŠ9¾/Z/>aÏ6¾$Ï<O¾ö]>ÇaF>Ö7L¾¿ì›½ğ½3¾€Y><Ã>B_ı½NÔ¾7ç=iûY>3v‡=Í³!¾M«=÷\>‡z›=YP>Áò<5a>¹£J¾Ş¨ö='Ï=Ã!½0ú¾=_7;W¾ì>.=¯<¾0à3¾¨&‰=_‡½˜‹=êv>4Z½áã2>M1Ô=çú<tVe½›	>¬!>[×S<È½¥;5=ƒç1>ü+>¿DH¾4P>o=E¾Ë?.½“ö¼õU¾5<>ÕÁ8>*Ş
+B30.layers.0.0.output_gate_params.input_weight.weightJ )á=õ·=´o=ø)C>:ı#½;L?>Àe»DBÓ<°ó ¼–|=¾e¬>ÏLG;º‹™<ìµ~½+1¾Û]<«8d>	¹½ªCµ½l-=Â >¶€T>|,æ½2Ë+>û=Ú:O½ˆú½93à<,„;>Rş¼ Ğ0>6—=‰I–½¸F¾üpœ=Ê,¾¿Ñ©=‹˜c¾B¤2¾;îø=OÑì=r(¾mNÓ=X”=;À(¾2¡à=¾ºŒfq<Ø—0>îğ¥<‘\a¼N»Œ¼*t+¾V³M¾Ë ;¾­o>™‹½Ÿ ¹=7S½(S>Ä¨.¾
+?M¾¹4á½µ¤<>0¯Ê=ªµ]»Iİå=!PÒ=#s»½[ú<>º— ¾`èp=¤pX¾n+ø½CP=tÉk½—$>Ø³=Á£ >i‹</-^<ºÚ½rÇÏ=š;€½ÎªÛ=piZ<
+p.=h÷¼üê½®Ğ=H7•½¨Eb> J™=u0¾Å½öC½Ÿ‹;>Ù#¼ŞÁ½T‚=±8¾JF¤¼P'‚<•Hğ½ÑIİ½V‚Ş=–k*½¶¢8¾q<ùsè=^\>š)H>6-N=Íq,¾ùÉU=ÈÇ"=¯Á{½”p7¾ŸW=Q²`¾…=¯=º‡¾>ÖŸ=?‰½E>C`^¾p]`¾ê)ö½öæ¾nÈ-¾í$>ÖZ=ÜX©=ˆ›Í=.¤ë=%¾|ØÂ½%`–9û*>Ç#>7-ï½j»è½¬W¾Î Œ¼ëĞ‘ºß:»=Aÿ=/ùö=¼ =be”=êæN=»1:¾½fQ>–¾$3#¾ZD>P½<?9¾f6÷½O,>`“Ø½Ê÷÷=/1²<óŒ†<Àö=YËi=¶i»>ñY>^¾=ëU¾\`=}ãµ¼{¤=‹9/>2.ñ=>d•U>*×V½|š>¾S–=,æ¾º7¥½ñ¿*¾v'->>‚²	>zÂ&><K2=Ø={}=#<ì½ÌÕ1>lU½ÇU¥=c]ö=<J˜=Òû[=;>S¾(X½*ÿB40.layers.0.0.output_gate_params.hidden_weight.weightJÀıù-¾‘9V>¨?>”àb>„«½n¯=>ØæÅ=<Ÿ¼5ÏK=àÜ¤½w’½¥¤>1,Ç=-S–=´°¶=nÁ\>”V,¾ù”ã=­*•<2=]DA¾‰Í¿½×VT=p¹T>aB¾^CI¾+{>±X¾Ÿu¾"ª2>Y]C>7ëÃ=qä>~‘V¾“r×=é¨=kß=™å>5«ø=æ±¾ FQ¾åD®½ÿùî=¸YÅ=O>ëµ½^u=î\+>}‚B¾ò$->Ùt4¾±Ù<C>mç^>ı3>XñºÚ½÷á¾õÌ•<¯)@>5+Ú½10*>ÌOÆ<Ã_=zæb½"ÈM>l3!¾º:9=ó*¼5Ÿ0¾¤z3¾ey¾ËV>7ïÆ½4.N¾Î¼T¨½ska¾?ç¼½wÅ†¼œEF>¢Y=ÄX>ÉxÄ=ÿä>–5>åÖê½ñ¾B+¾$ñ¾´ã>-ğ5=÷½PpI<:âF>ï‰=â‰=5$U¾‘>w½!=õĞ½:x=Úƒ!>^?1>8ª<@¡¾ì„¾R¾´8Ğ=<e½½-¾¶TÙ½»cß½—b½Ú¹4¾¹oÈ<™¾ï¼)¾ôP[¾.d>Œ ó½^Qî½CåL>qÀ!¾@*š½@ÚÓ=İå­=!}½ø£½õ½b5*>¥J>$ßù½‘¡=½˜`A>îæ	>”h½1‰½öêé¼g^¾?½&­á=e5H>àëE½ØÁ=Æ·s¼…{g=É-’½õ>)I¼.pJ>èdM>LH~<1¼³¸!>mH>4>ò¯D½½Ğ
+½Ä1ˆ=Å¡~=]t>¥ıª=|[4¾†1¾ =ÔÆä½Ë×Å½î )=²¡‰½Ôÿ%½/— >Ìq—½nö!¾ô‡)½a'_¾0î¢=êU>ÿ@"¾8/>>)¾`­2>ø.>M¹>ÄC¾Q4C¼è?=Z\¾à=C¡»”¼=yY¾j´$½_¼µ½¹zÉ½;¤›=ñË=£¡¾úv=OÄ¼ÛË>ÛA¾©V½¾„L]>mqí½ÃK¡½"¥	½æY=ü†¦=ã"ö=¬>»œù½–H>„&¾½át}<ÊŸ;>³µ¤<şƒò=š=¾*¡ä½2BÚ<»ı/¾òÊ>/©/¾Ñ‡D>ş›6½Û_=«”¾Düë=w==
+«¤=ó(4¾Qü*¾ èÈ=j:ã¼_)ş½§†İ=ĞœL¾ÀL>¡åÍ½Gh=M0ö=Jğú=¤-Ä½1s>}>T>¼*½„Ê6¾.‡0¾L¥%¾´&Q=ŒQ^>Ü˜T>ı‚€½±Ğ\>ñHÿ<6å¾_‰Y>‹àü=B`>s½À£½Š0½'	û<²#¾õ—„¼$¤Z¾½’½½İ3¾ÍK§=ˆ¾Â¼å'¾]ìÜ½8½á¼‡´=ØMÖ= <e¡]>M=¾†{=O"=Ù
+¾–I¾hoR½Õ°)¾Â>a>À÷¬=ö½EM½wX>sÁD¾¹Pt<3ê	½ªÑd¾\]¾æ€»=´½M3Ô=ZÓ4>óù=hD–½3b¾ˆş>K˜>/t¼*A=à´¼%ì >¹÷»½QF0>d/¿½*– =a‚c> Æ=SŸU¾>Œ˜½ÅvŒ=o¦½;Å@¾Z,¾=Ï-¾2£#=—§—=™©>|º¾‰oû½IâÃ<–ã<ôÿ¥=ç°,¾X¡<N.T>LÂ>½{Ü+>äZC=´Š¾ì=ö5>Ï/¾ÖË½¥K2>ÍZ¾˜®>Ur3>D¾YÑ½)B>Ô·Ä½q&T>·Sí½—3Q=áßC¾3\¾Éô2=MÃZ=’>GJ>øl›=Ê6*>bİÕ½iü½—Z=ğ¾ıÖ¼„¾útH=&T¾ÏÂÒ=“8[>—,>§®’½İ"¾Ùz>Êß<¦G; ^z=´%—¼
+hJ=±J=b;@¼)i½Ÿi—=ÓN9>FŠ8=ûå ½(
+½íèë½Wı7¾kv=>˜`D>óÜ&<Zû½áN>Fš]¼)}½.½vÁ,¾Ì¾*™ Bonnx::LSTM_93J€»ã|=ˆ¹B=¾†k¾DÂ½ñ=i>æ>£Ñ=ÍA6¾wR=5ƒI¼kúè½­*>3ÉÛ=]5#¾¤!>È8>¼Fÿ=Fs>¦›P½§ÜÌ=ÅN/¾4w½â9M¾šî>J;>H”©=ª÷º½Ø¾A®=Ö>DÒ½»í¾ÇŠ™<åí=Ãø=´é¾Òu;=óOM=^®E>ç.]¾P‘½SÆ½>7Õ=ùê¾S¤×½Ï9>”„½¤¿@¾ø–>(û#¼º\½Å‰æ=.W>xÁZ¾ì#J½GO¾%_+>ONJ¾tLÛ½J÷=Ìw ¾7h>½­ÿÌ½g9¾À±T¾Î£Ü<¤û·;ŞG¾¯*Ç½ËN/¾Ş2­=]%K¾Áñ¾Ã&%½]·½†¬ã=Áö£½Ğ,>                                                                                                                                                                                                                                                                                                                                *RBH/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_output_0JÒ¢=*QBJ/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_1_output_0J *QBJ/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_2_output_0Jù*QBJ/0/layers.0.0/input_weight/weight_quant/export_handler/Constant_3_output_0J*TBJ/0/layers.0.0/input_weight/weight_quant/export_handler_1/Constant_output_0JXË=*TBJ/0/layers.0.0/input_weight/weight_quant/export_handler_2/Constant_output_0JóÀ=*TBJ/0/layers.0.0/input_weight/weight_quant/export_handler_3/Constant_output_0J#=*>B./0/layers.0.0/export_handler/Constant_output_0J        *@B0/0/layers.0.0/export_handler/Constant_1_output_0J        *<B0/0/layers.0.0/export_handler/Constant_2_output_0J   *kBonnx::Expand_56JP                                                                                * Bonnx::Squeeze_57J       * Bonnx::Squeeze_58J        *>B0/0/layers.0.0/export_handler/Constant_3_output_0J       *"Bonnx::Unsqueeze_62J        *@B0/0/layers.0.0/export_handler/Constant_4_output_0J       *Bonnx::Concat_94J       *>B0/0/layers.0.0/export_handler/Constant_5_output_0J       *"Bonnx::Unsqueeze_73J        *@B0/0/layers.0.0/export_handler/Constant_6_output_0J       *Bonnx::Concat_95J       */B/0/layers.0.0/Constant_output_0J        *1B!/0/layers.0.0/Constant_1_output_0J        Z
+inp.1
+
+
+
+
+ZD
+20.layers.0.0.input_gate_params.input_weight.weight
+
+
+
+ZE
+30.layers.0.0.input_gate_params.hidden_weight.weight
+
+
+ZE
+30.layers.0.0.forget_gate_params.input_weight.weight
+
+
+
+ZF
+40.layers.0.0.forget_gate_params.hidden_weight.weight
+
+
+ZC
+10.layers.0.0.cell_gate_params.input_weight.weight
+
+
+
+ZD
+20.layers.0.0.cell_gate_params.hidden_weight.weight
+
+
+ZE
+30.layers.0.0.output_gate_params.input_weight.weight
+
+
+
+ZF
+40.layers.0.0.output_gate_params.hidden_weight.weight
+
+
+Z 
+onnx::LSTM_93
+	
+
+ b
+84
+
+
+
+b
+88
+
+
+
+b
+90
+
+
+
+B
+ 
